@@ -10,6 +10,8 @@ https://goo.gl/3NVkZM
 https://goo.gl/s2efbJ
 
 4.
+    - Elements of JavaScript Style (intro)<br>
+    https://goo.gl/waeu5x
     - Composing Software: An Introduction (part 1)<br>
     https://goo.gl/xyPQxm
     - Functional Mixins (part 2)<br>
