@@ -16,3 +16,6 @@ https://goo.gl/s2efbJ
     https://goo.gl/xyPQxm
     - Functional Mixins (part 2)<br>
     https://goo.gl/DFZZvF
+    
+5. Новые #приватные поля классов в JavaScript<br>
+    https://goo.gl/YbgLMt
