@@ -8,3 +8,7 @@ https://goo.gl/3NVkZM
 
 3. Полный контроль над контрольными точками. В CSS и в JS<br>
 https://goo.gl/s2efbJ
+
+4.
+    - Composing Software: An Introduction<br>
+    https://goo.gl/xyPQxm
