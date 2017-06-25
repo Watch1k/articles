@@ -18,4 +18,7 @@ https://goo.gl/s2efbJ
     https://goo.gl/DFZZvF
     
 5. Новые #приватные поля классов в JavaScript<br>
-    https://goo.gl/YbgLMt
+https://goo.gl/YbgLMt
+    
+6. Разбираемся с lock-файлами в NPM 5<br>
+https://goo.gl/wxuKKr
