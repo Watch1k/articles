@@ -12,3 +12,5 @@ https://goo.gl/s2efbJ
 4.
     - Composing Software: An Introduction<br>
     https://goo.gl/xyPQxm
+    - Functional Mixins<br>
+    https://goo.gl/DFZZvF
