@@ -22,3 +22,6 @@ https://goo.gl/YbgLMt
     
 6. Разбираемся с lock-файлами в NPM 5<br>
 https://goo.gl/wxuKKr
+
+7. Частичное применение функций<br>
+https://goo.gl/uPFfxc
