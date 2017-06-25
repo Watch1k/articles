@@ -5,3 +5,6 @@ https://goo.gl/g3ADFd
 
 2. Информатика в JavaScript: Быстрая сортировка (Quicksort)<br>
 https://goo.gl/3NVkZM
+
+3. Полный контроль над контрольными точками. В CSS и в JS<br>
+https://goo.gl/s2efbJ
